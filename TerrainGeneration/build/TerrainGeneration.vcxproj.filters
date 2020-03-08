@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Facultate\Anul II\Semestrul I\Grafica3D\Projects\TerrainGenerationTeam4-381\TerrainGeneration\TerrainGeneration\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Facultate\Anul II\Semestrul I\Grafica3D\Projects\TerrainGenerationTeam4-381\TerrainGeneration\TerrainGeneration\Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Facultate\Anul II\Semestrul I\Grafica3D\Projects\TerrainGenerationTeam4-381\TerrainGeneration\TerrainGeneration\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Facultate\Anul II\Semestrul I\Grafica3D\Projects\TerrainGenerationTeam4-381\TerrainGeneration\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AE92A2B4-F34B-3AA9-8469-7DBFB02E5AEC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

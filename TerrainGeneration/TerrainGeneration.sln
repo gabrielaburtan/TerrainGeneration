@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TerrainGeneration", "TerrainGeneration\TerrainGeneration.vcxproj", "{BF72E7E4-AF4B-428C-918C-8354417649DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Debug|x64.ActiveCfg = Debug|x64
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Debug|x64.Build.0 = Debug|x64
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Debug|x86.Build.0 = Debug|Win32
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Release|x64.ActiveCfg = Release|x64
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Release|x64.Build.0 = Release|x64
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Release|x86.ActiveCfg = Release|Win32
+		{BF72E7E4-AF4B-428C-918C-8354417649DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E2DD77-87B7-486F-A17C-4FDCC662C512}
+	EndGlobalSection
+EndGlobal
